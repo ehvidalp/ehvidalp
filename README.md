@@ -9,8 +9,8 @@
 
 ```javascript
 const edward = {
-  code: [Javascript, Typescript, HTML, CSS, C#],
-  database:[Sql, Firebase, PostgreSql]
+  code: [Javascript, Typescript, HTML, CSS, 'C#'],
+  database:[Sql, Firebase, PostgreSql],
   tools: [Angular, Firebase, Rxjs, Tailwind, Bootstrap, Syncfusion],
   architecture: ["Block, Element and Modifier (BEM) methodology", "design system pattern"],
  }
