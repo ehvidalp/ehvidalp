@@ -1,5 +1,5 @@
 <h2> Hi, I'm Edward Vidal! </h2>
-<img align='right' src="https://media.giphy.com/media/888R35MJTmDxQfRzfS/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/888R35MJTmDxQfRzfS/giphy.gif" width="200">
 <p> <em>Angular Developer  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png" width="17"> </p>
 
 [![Twitter: Edward Vidal](https://img.shields.io/twitter/follow/ehvidalp?style=social)](https://twitter.com/ehvidalp)
