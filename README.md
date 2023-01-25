@@ -1,7 +1,8 @@
 <h2> Hi, I'm Edward Vidal! </h2>
-<img align='right' src="https://media.giphy.com/media/3o7bukPWLMVsRz38J2/giphy.gif" width="150">
+<img align='right' src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="150">
+
 <p> 
-  <em>Frontend Developer  
+  <em>Front End Developer  
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/250px-Vue.js_Logo_2.svg.png" width="17">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png" width="17">
 </p>
